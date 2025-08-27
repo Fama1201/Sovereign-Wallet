@@ -1,0 +1,28 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE/Editor
+*.vcxproj*
+*.sln
+*.user
+*.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+sovereign_wallet.exe
+.vscode/
